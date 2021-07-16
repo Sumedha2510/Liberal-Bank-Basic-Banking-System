@@ -3,9 +3,7 @@
 
 ##### Liberal Bank is made as a basic bank  where customers can process transactions, view their account balance and see the history of transactions carried.
 
-
-###### It is made as a part of the task given by Graduate Rotational Internship Program carried out by The Sparks Foundation. 
-
+##### It is made as a part of the task given by Graduate Rotational Internship Program carried out by The Sparks Foundation. 
 
 ##### The basic flow of the website is:
 Home Page > View all Customers > Select and View One Customer > Transfer Money > Select Customer to Transfer to > View all Customers
